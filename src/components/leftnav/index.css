@@ -1,0 +1,24 @@
+.left-nav {
+    /*background-image: url("../../assests/images/5.png");*/
+    /*background-size: 100% 100%;*/
+    /*background: white;*/
+    height: 100%;
+    color: white;
+}
+.left-nav .left-nav-header{
+    width: 100%;
+    height: 66px;
+    display: flex;
+    align-items: center;
+}
+
+.left-nav .left-nav-header img{
+    width: 45px;
+    height: 45px;
+    margin: 0 15px 0 20px;
+}
+.left-nav .left-nav-header h1{
+    margin: 0 0 0 0;
+    font-size: 25px;
+    color: black;
+}
