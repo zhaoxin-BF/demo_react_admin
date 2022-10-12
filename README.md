@@ -11,3 +11,10 @@ yarn start
 - 1、Js + react
 - 2、antd 3x 版本组件
 
+# 软件版本
+- node v16.3.0 / v18
+- 
+
+# 注意事项
+- WebStorm 启动项目，注意配置node
+

@@ -10,8 +10,6 @@ dist/
 .vscode
 .env
 .DS_Store
-package-lock.json
-yarn.lock
 .cache
 yarn-error.log
 *.log
